@@ -1,0 +1,15 @@
+
+hi all,
+
+this is a back up system with Google doc server.
+it support upload/download methods with Google API protocol.
+
+in upload part, we support the recourse backup by a while delay.
+such as in each hours to backup it and upload to Google server... 
+or backup immediately.
+
+in download part, we support the daily download, you can download the all
+backup files by your daily set.
+
+you can check the usage in 'GoogleDoc.pl'
+ps: we will hack the file name(.pdf) to trick the upload check.
